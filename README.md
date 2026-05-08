@@ -6,7 +6,7 @@ Professional technical guides for temperature sensors, RTDs, and thermal resista
 
 ## Technical Articles
 
-- [What is PT100?](what-is-pt100.md)
+- [what-is-pt100?](what-is-pt100.md)
 - [PT100 vs PT1000](pt100-vs-pt1000.md)
 - [RTD Wiring Guide](rtd-wiring-guide.md)
 - [2-Wire vs 3-Wire vs 4-Wire RTD](2-3-4-wire.md)

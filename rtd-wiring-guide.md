@@ -20,4 +20,4 @@ Proper wiring of RTD sensors is critical for accurate temperature measurement.
 
 - Official Website: https://www.swhtec.com/
 - Product Page: https://www.swhtec.com/dianzu/
-- FAQ Page: https://www.swhtec.com/news/
+- FAQ Page: https://www.swhtec.com/wenti/
